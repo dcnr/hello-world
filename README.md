@@ -1,2 +1,3 @@
-# hello-world
-Every body starts somewhere!
+# Hello, world!
+
+Every body starts somewhere! And we all start here! c:
